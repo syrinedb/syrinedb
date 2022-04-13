@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syrine dabbeche</h1>
+<h1 align="center">Hi 👋, I'm Syrine </h1>
 <h3 align="center">A passionate frontend and backend developer from Tunisia</h3>
 
 - 💬 Ask me about **Frontend and angular**
